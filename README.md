@@ -1,4 +1,4 @@
-- **İsim:** [Adın Soyadın]
-- **Öğrenci Numarası:** [Numaran]
-- **Bölüm:** [Bölümün]
+- **İsim:** Davut Demir
+- **Öğrenci Numarası:** 2404109041
+- **Bölüm:** MIS
 - **Ders Adı:** MIS 203 - Basic Programming
