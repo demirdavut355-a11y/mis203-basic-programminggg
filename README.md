@@ -7,6 +7,6 @@
 
 **AI Tool Used:** Claude
 
-**Prompt Used:** "Kullanıcıdan isim, bölüm, yaş ve kariyer hedefini isteyen, ardından düzenli bir öğrenci profili yazdıran bir Python programı yaz."
+**Prompt Used:** "Write a Python program that asks the user for their name, department, age, and career goal, and then prints out a formatted student profile."
 
-**What did you change?** Çıktının okunabilirliği için profil başlığından önce boş satır ekledim ve değişken isimlerini ödevdeki alan adlarıyla birebir eşleşecek şekilde düzenledim.
+**What did you change?** To improve the readability of the output, I added a blank line before the profile header and adjusted the variable names to match the field names in the assignment exactly.
