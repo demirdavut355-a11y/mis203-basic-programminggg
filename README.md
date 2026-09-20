@@ -1,1 +1,4 @@
-# mis203-basic-programminggg
+- **İsim:** [Adın Soyadın]
+- **Öğrenci Numarası:** [Numaran]
+- **Bölüm:** [Bölümün]
+- **Ders Adı:** MIS 203 - Basic Programming
